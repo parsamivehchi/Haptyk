@@ -1,2 +1,2 @@
 # Haptyk
-Can test different haptic patterns and feels through the iPhone Taptic Engine
+An iOS app that lets the user test and feel different haptic patterns through the iPhone Taptic Engine
